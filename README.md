@@ -12,7 +12,7 @@ An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
 
 > **ecommerce-manufacturer-service**
 
-Microservice responsible for providing a list or singular manufacturer.
+Microservice responsible for providing a list or individual manufacturer.
 
 
 ## Installation
