@@ -1,6 +1,6 @@
 # E-commerce Manufacturer Service
 
-An microservice with Java 11, Spring Cloud Hoxton SR4, Open Feign for RESTful Client, Netflix Ribbon, Netflix Hystrix, Spring Cloud Sleuth, Zipkin, Spring Cloud Starter Bus and Spring Cloud Config Client
+An microservice with Java 11, Spring Cloud Hoxton SR4, Open Feign for RESTful Client, Netflix Ribbon, Netflix Hystrix, Spring Cloud Sleuth, Zipkin, Spring Cloud Starter Bus and Spring Cloud Config Client, JUnit 5
 
 ## Reference Documentation
 
